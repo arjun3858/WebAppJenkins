@@ -28,3 +28,4 @@ E:\SpecFlow Phase 4\WebAppJenkins\WebAppJenkins\obj\Debug\net6.0\refint\WebAppJe
 E:\SpecFlow Phase 4\WebAppJenkins\WebAppJenkins\obj\Debug\net6.0\WebAppJenkins.pdb
 E:\SpecFlow Phase 4\WebAppJenkins\WebAppJenkins\obj\Debug\net6.0\WebAppJenkins.genruntimeconfig.cache
 E:\SpecFlow Phase 4\WebAppJenkins\WebAppJenkins\obj\Debug\net6.0\ref\WebAppJenkins.dll
+E:\SpecFlow Phase 4\WebAppJenkins\WebAppJenkins\obj\Debug\net6.0\WebAppJenkins.sourcelink.json
